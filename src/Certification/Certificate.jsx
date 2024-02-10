@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from "react-router-dom";
 import "./certificate.css";
 
 export default function Certificate() {
@@ -40,6 +41,7 @@ export default function Certificate() {
         <div>
             <h2>Certificates</h2>
             { certificateList }
+            <Link to="/">戻る</Link>
         </div>
     );
 }
