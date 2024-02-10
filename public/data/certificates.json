@@ -1,0 +1,32 @@
+{
+    "certificates":[
+        {
+            "acquiredAt": "2023-06-30",
+            "name": "Azure Solutions Architect Expert",
+            "description": "Microsoft Azure ソリューション アーキテクトは、次のような、Azure で実行されるクラウドおよびハイブリッド ソリューションの設計に関する専門知識を持っています。Compute、Network、記憶域、監視、セキュリティ。",
+            "badge": "./data/certificationImages/rank3.svg",
+            "website": "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-solutions-architect/"
+        },
+        {
+            "acquiredAt": "2022-09-08",
+            "name": "DevOps Engineer Expert",
+            "description": "DevOps エンジニアは、人、プロセス、製品を扱う分野において価値の継続的デリバリーを組織で実現できる専門知識も持っている開発者またはインフラストラクチャの管理者です。",
+            "badge": "./data/certificationImages/rank3.svg",
+            "website": "https://learn.microsoft.com/ja-jp/credentials/certifications/devops-engineer/"
+        },
+        {
+            "acquiredAt": "2022-11-08",
+            "name": "Azure Administrator Associate",
+            "description": "Azure 管理者は、組織のクラウド環境の実装を専門で行う、より大きなチームの一員となることがよくあります。 また、他のロールと連携して、Azure ネットワーク、セキュリティ、データベース、アプリケーション開発、DevOps ソリューションを提供します。",
+            "badge": "./data/certificationImages/rank2.svg",
+            "website": "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-administrator/"
+        },
+        {
+            "acquiredAt": "2021-11-12",
+            "name": "Azure Developer Associate",
+            "description": "要件の収集、設計、開発、デプロイ、セキュリティ、メンテナンス、パフォーマンス チューニング、監視など、開発のすべてのフェーズに参加する責任があります。",
+            "badge": "./data/certificationImages/rank2.svg",
+            "website": "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-developer/"
+        }
+    ]
+}
